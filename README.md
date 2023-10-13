@@ -43,3 +43,11 @@ https://elzero.org/category/courses/mastering-python/
 3- https://www.python.org/downloads/ ( print("hello python") )
 4- https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
+
+# Dealing With Data in Python
+- our Apps contains code + data
+- code is the lines you write to manage and deal with this data
+- num - string - booleans
+- data is stored on computer memory
+- we use variable (not containing the data its only refer to its location on memory)
+- code is using the data to perform operation (add-edit-delete)
