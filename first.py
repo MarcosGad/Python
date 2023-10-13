@@ -5,6 +5,12 @@ print("two"); print("three") # in one line use ;
 
 print("i") # space in start line -> error must block of code
 
+if True:
+    if True:
+        print ("block  of code")
+if True:
+      print("code")
+
 
 
 
