@@ -33,7 +33,7 @@ print(set(d)) # {1, 2, 3, 4, 5}
 print(set(e)) # {'A', 'B', 'C'}
 print(set(f)) # {'A', 'B'}
 
-# dict()
+# dict() (if found key and value)
 d = (("A", 1), ("B", 2), ("C", 3))  # Tuple
 e = [["One", 1], ["Two", 2], ["Three", 3]]  # List
 print(dict(d)) # {'A': 1, 'B': 2, 'C': 3}
